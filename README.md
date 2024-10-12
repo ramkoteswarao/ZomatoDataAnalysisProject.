@@ -1,2 +1,2 @@
 # ZomatoDataAnalysisProject.
-This project analyzes Zomato's customer and restaurant data to uncover insights on customer behavior and restaurant performance. Achieved 95% accuracy in identifying popular restaurant types and many more. Visualizations created using Python libraries provide actionable recommendations for enhancing customer engagement.
+I Analyzed Zomato's customer and restaurant data to identify trends and insights. Achieved 95% accuracy in popular restaurant identification; couples represent 60% of online orders. Evaluated ratings, with 75% of offline orders above 4 stars.Utilized Python, Pandas, NumPy, and Seaborn for data processing and visualization, enabling strategic recommendations to enhance customer engagement and optimize marketing efforts.
